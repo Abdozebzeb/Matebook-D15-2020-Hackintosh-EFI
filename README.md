@@ -6,7 +6,7 @@ This repository provides an OpenCore EFI configuration and setup instructions fo
 
 ---
 
-![Huawei Matebook D15 2020 running macOS](./assets/tahoe_image_laptop.png.jpg)
+![Huawei Matebook D15 2020 running macOS Tahoe](./assets/tahoe_image_laptop.jpg)
 
 ---
 
